@@ -4,7 +4,7 @@ The Strategy Design Pattern is a behavioral design pattern that allows algorithm
 
 In this project, we have implemented the Strategy Design Pattern to provide clients with the flexibility to choose from four sorting algorithms at runtime. This allows clients to easily swap between sorting algorithms without modifying the existing code. The pattern helps to decouple the clients from the specific sorting algorithms, making the code more modular and easier to maintain.
 
-[Project Class Diagram](project_class_diagram.png)
+![Project Class Diagram](project_class_diagram.png)
 ## Project overview
 This project implements the Strategy Design Pattern to enable clients to sort an array of integers using four different sorting algorithms: bubble sort, quick sort, insertion sort, and merge sort. By using the Strategy Design Pattern, the sorting algorithm can be selected at runtime, which provides the flexibility to choose the preferred algorithm dynamically.
 
